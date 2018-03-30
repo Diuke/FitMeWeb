@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # software
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 5.0.0-beta.3.
@@ -26,3 +27,7 @@ Run `gulp build` for building and `gulp serve` for preview.
 ## Testing
 
 Running `npm test` will run the unit tests with karma.
+=======
+# FitMeWeb
+FitMe (Feed Me) Web app for Software Design class
+>>>>>>> d56ec3e2c6a2aab9b65b4e75d13b27a4e54952da
